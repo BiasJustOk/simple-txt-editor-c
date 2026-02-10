@@ -1,4 +1,4 @@
-# warehouse0
+# simple-txt-editor-c
 store simple items
 # 简易TXT文件编辑器（C语言）
 这是一个基于C语言开发的极简版TXT文件管理工具，支持TXT文件的创建、内容追加编辑、读取、删除功能，使用Visual Studio开发。
